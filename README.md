@@ -12,4 +12,4 @@ I'm a web developer based in Belgium. In the realm of programming, I emphasize v
 
 ## People skills : ![Teamwork](https://img.shields.io/badge/Teamwork-%F0%9F%A4%9D-green) ![Creativity](https://img.shields.io/badge/Creativity-%F0%9F%8E%A8-blue) ![Perseverance](https://img.shields.io/badge/Perseverance-%F0%9F%9A%80-orange)
 
-![footer_description](footer.png)
+![G Develllloopper #Front-end #Back-end M](https://github.com/GMKRAKEN23/GMKRAKEN23/assets/149949090/7f7cdc9e-090d-4e3e-9897-72340a0052cb)
