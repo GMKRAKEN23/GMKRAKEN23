@@ -8,7 +8,7 @@ I'm a web developer based in Belgium. In the realm of programming, I emphasize v
 
 ### Tools :
 
-[![My tools](https://skillicons.dev/icons?i=git,canva)](https://skillicons.dev)
+[![My tools](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
 
 ### Front-End : 
 
