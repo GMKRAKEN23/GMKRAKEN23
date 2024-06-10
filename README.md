@@ -2,7 +2,10 @@
 ---
 ![header_description](header.png)
 
-I'm a web developer based in Belgium. In the realm of programming, I emphasize versatility as my creative inclinations propel me to undertake comprehensive projects. This is why I have chosen the path of a full-stack developer. Additionally, I derive great satisfaction from acquiring knowledge in concepts closely or remotely related to programming, such as UX design, SEO, project management, ...
+🇧🇪 - I'm a Belgian web developer  
+💻 - I love learning web and mobile coding  
+🎯 - My objective: full-stack JavaScript developer  
+🗺️ - My roadmap : JavaScript - TypeScript - React - Node.js - Express.js - MongoDB - Flutter 
 
 ## Skills : 
 
