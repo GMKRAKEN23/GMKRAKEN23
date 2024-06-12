@@ -20,7 +20,7 @@
 
 ### Back-end  
 
-[![My Skills_front-end](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
+[![My Skills_front-end](https://skillicons.dev/icons?i=php,nodejs,express,mysql,mongodb)](https://skillicons.dev)
 
 ## Contact Me! 
 
