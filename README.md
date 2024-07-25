@@ -18,9 +18,14 @@
 
 [![My Skills_front-end](https://skillicons.dev/icons?i=sass,tailwind,js,typescript,react)](https://skillicons.dev)
 
-### Back-end  
+### Back-End  
 
-[![My Skills_front-end](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills_back-end](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma)](https://skillicons.dev)
+
+### Full-Stack
+
+[![My Skills_back-end](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
+
 
 ## Contact Me! 
 
