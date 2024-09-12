@@ -5,8 +5,8 @@
 🇧🇪 - I'm a Belgian web developer  
 💻 - I love learning web and mobile coding  
 🎯 - My objective: full-stack JavaScript developer  
-🗺️ - My roadmap : JavaScript - TypeScript - React - Node.js - Express.js - MongoDB - Flutter    
-📖 - Currently learning : Node.js and MongoDB
+🗺️ - My roadmap : JavaScript - TypeScript - React - Node.js - Express.js - MongoDB  
+📖 - Currently learning : Next.js
 
 ## Skills : 
 
