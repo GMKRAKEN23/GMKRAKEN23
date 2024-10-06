@@ -8,6 +8,8 @@
 🗺️ - My roadmap : JavaScript - TypeScript - React - Node.js - Express.js - MongoDB  
 📖 - Currently learning : Next.js
 
+🖥️ - Click on my portfolio: [Click here!](www.giuseppe-messina-dev.com)
+
 ## Skills : 
 
 ### Tools 
