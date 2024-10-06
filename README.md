@@ -5,8 +5,7 @@
 🇧🇪 - I'm a Belgian web developer  
 💻 - I love learning web and mobile coding  
 🎯 - My objective: full-stack JavaScript developer  
-🗺️ - My roadmap : JavaScript - TypeScript - React - Node.js - Express.js - MongoDB  
-📖 - Currently learning : Next.js
+🗺️ - My roadmap : JavaScript - TypeScript - React - Next.js - Node.js - Express.js - MongoDB  
 
 🖥️ Click here to view my portfolio: [View Portfolio!](https://www.giuseppe-messina-dev.com)
 
