@@ -17,11 +17,11 @@
 
 ### Front-End  
 
-[![My Skills_front-end](https://skillicons.dev/icons?i=sass,tailwind,js,typescript,react)](https://skillicons.dev)
+[![My Skills_front-end](https://skillicons.dev/icons?i=tailwind,js,typescript,react)](https://skillicons.dev)
 
 ### Back-End  
 
-[![My Skills_back-end](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma)](https://skillicons.dev)
+[![My Skills_back-end](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
 
 ### Full-Stack
 
