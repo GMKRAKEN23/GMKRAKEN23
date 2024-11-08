@@ -19,7 +19,7 @@
 
 [![My Skills_front-end](https://skillicons.dev/icons?i=tailwind,js,typescript,react)](https://skillicons.dev)
 
-### Back-End  
+### Back-End & Database
 
 [![My Skills_back-end](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
 
