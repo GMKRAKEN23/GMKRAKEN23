@@ -3,7 +3,7 @@
 ![header_description](header.png)
 
 🇧🇪 - I'm a Belgian web developer  
-💻 - I love learning web and mobile coding  
+💻 - I love learning web coding  
 🎯 - My objective: full-stack JavaScript developer  
 🗺️ - My roadmap : JavaScript - TypeScript - React - Next.js - Node.js - Express.js - MongoDB  
 
